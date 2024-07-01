@@ -6,6 +6,10 @@ body {
 h1, h2, p {
     text-align: center;
   }
+
+  h1, h2 {
+    font-family: Impact;
+  }
   
   .menu {
     width: 80%;
